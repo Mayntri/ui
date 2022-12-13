@@ -59,5 +59,8 @@
   },
   "main": "./dist/ui.umd.js",
   "module": "./dist/ui.es.js",
-  "types": "./dist/index.d.ts"
+  "types": "./dist/index.d.ts",
+  "publishConfig": {
+    "@mayntri:ui": "https://npm.pkg.github.com"
+  }
 }
