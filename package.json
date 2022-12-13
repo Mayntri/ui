@@ -52,7 +52,7 @@
   ],
   "exports": {
     ".": {
-      "import": "./dist/ui.js",
+      "import": "./dist/ui.es.js",
       "require": "./dist/ui.umd.js"
     }
   },
