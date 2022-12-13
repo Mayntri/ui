@@ -53,10 +53,9 @@
   ],
   "exports": {
     ".": {
-      "import": "./dist/ui.es.js",
+      "import": "./dist/ui.js",
       "require": "./dist/ui.umd.js"
-    },
-    "./dist/style.css": "./dist/style.css"
+    }
   },
   "main": "./dist/ui.umd.js",
   "module": "./dist/ui.es.js",
